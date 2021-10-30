@@ -8,7 +8,7 @@
 - Lê Hoàng Thịnh Phước
 - Lê Tiến Trí
 
-## Descripe
+## Describle
 * Làm quen với việc thu thập dữ liệu từ 1 trang web bằng cả parse HTML và API
 * Thu thập các file user, playlist, track
 * Mỗi file có tầm ít nhất > 1000 records
