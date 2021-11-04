@@ -1,0 +1,36 @@
+Song name	            tên của bài hát
+Duration	            thời lượng bài hát
+Publish		            ngày đăng bài hát
+Listens		            số lượt nghe
+Likes		            số lượt thích
+Reposts		            số lượt repost lại của bài hát đó
+Comments	            số lượt comment
+Grene		            thể loại nhạc	
+Picture_url	            avatar của bài hát	
+Description	            mô tả của bài hát do user đăng
+Link of song	            đường dẫn của bài hát
+Download count	            số lượt tải bài hát
+avatar_url	            Đường dẫn đến ản đại diện của user
+Publish		            Thời gian khởi tạo user
+Description	            Mô tả user của người đăng tải
+City		            Thành phố user đang sống
+Country_code	            Mã quốc gia user đang sống
+Id		            Định danh của user
+Comments_count	            Số lượt bình luận của user
+Likes_count 	            Số lượt được yêu thích của user
+Followers_count	            Số lượt theo dõi của user
+Followings_count	    Số lượt user theo dõi
+Playlist_likes_count	    Số lượt được yêu thích các playlist của user
+Playlist_count	            Số playlist của user
+Reposts_count	            Số bài đăng lại của user
+Track_count		    Số lượng track của user
+Last_modified	            Lần chỉnh sửa cuối cùng
+First_name	            Tên của user
+Last_name	            Họ của user
+Full_name	            Tên đầy đủ của user
+Username	            Tên đăng nhập của user
+Groups_count	            Số nhóm của user
+permalink	            Đường dẫn cố định của tài nguyên
+permalink_url	            Đường dẫn đến trang Soundcloud
+uri			    Đường dẫn API của user
+creator_subscriptions	    Loại thành viên của user
