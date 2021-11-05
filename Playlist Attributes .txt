@@ -1,0 +1,17 @@
+Playlist name	            tên của bài hát
+Number of tracks	    số lượng bài hát trong playlist đó
+Duration oftracks	    thời lượng của playlist đó
+Publisher	            người khởi tạo playlist(user)
+Release date 		    ngày đăng playlist
+Listens		            số lượt nghe của playlist
+Likes		            số lượt thích của playlist
+Reposts		            số lượt repost lại của playlist đó
+Share			    đường dẫn link của playlist	
+Avatar_playlist	            đường dẫn avatar của playlist	
+Background_playlist	    đường dẫn ảnh bìa của playlist
+Copy Link	            đường dẫn của bài hát
+User_avatar_url	            Đường dẫn đến ản đại diện của user
+User Name 		    tên của user
+Followers_count	            Số lượt theo dõi của user
+Tracks_count		    Số track của user
+Last_modified	            Lần chỉnh sửa cuối cùng của playlist
