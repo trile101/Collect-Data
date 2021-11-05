@@ -1,0 +1,25 @@
+Created_at			Thời gian khởi tạo user
+Description			Mô tả thông tin của user
+city				Thành phố user đang sống
+country_code			Mã quốc gia user đang sống
+id				ID định danh của user
+comments_count			Số lượt bình luận của user
+likes_count			Số lượt được yêu thích của user
+followers_count			Số lượt theo dõi của user
+followings_count		Số lượt user theo dõi
+playlist_likes_count		Số lượt được yêu thích các playlist của user
+playlist_count			Số playlist của user
+reposts_count			Số bài đăng lại của user
+track_count			Số lượng track của user
+last_modified			Lần chỉnh sửa cuối cùng của user
+first_name			Tên của user
+last_name			Họ của user
+full_name			Tên đầy đủ của user
+username			Tên đăng nhập của user
+groups_count			Số nhóm của user
+User url			Đường dẫn đến trang của user
+User avatar			Đường dẫn ảnh đại diện user
+User background			Đường dẫn ảnh bìa của user
+User's residence		Nơi ở của user
+creator_subscriptions		Loại thành viên của user
+Verified			Định danh User có phải chính chủ
